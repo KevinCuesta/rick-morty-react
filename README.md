@@ -4,10 +4,8 @@
 
 ### Aquí puedes:
 
-* Buscar personajes por nombre o especie.
-* Ver información detallada sobre cada personaje, incluyendo sus episodios favoritos, frases memorables y relaciones con otros personajes.
-* Filtrar personajes por género, estado y origen.
-* ¡Y mucho más!
+ver los personajes con información detallada sobre cada personaje, incluyecto si estan vivos o no, cuantas apariciones tuvieron los
+personajes en los capitulos.
 
 ## Tecnologías utilizadas:
 
