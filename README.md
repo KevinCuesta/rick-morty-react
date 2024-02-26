@@ -16,6 +16,7 @@ personajes en los capitulos.
 ## Enlaces:
 
 * **API Rick and Morty:** https://rickandmortyapi.com/
+* **link de la pagina (Netlify):** https://glowing-daffodil-c7f6ea.netlify.app/
 
 ## ¡Disfruta de tu viaje por el universo de Rick and Morty!
 
