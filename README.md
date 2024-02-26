@@ -16,7 +16,6 @@ personajes en los capitulos.
 ## Enlaces:
 
 * **API Rick and Morty:** https://rickandmortyapi.com/
-* **Página web:** https://aquamarine-pie-6ca6e6.netlify.app/
 
 ## ¡Disfruta de tu viaje por el universo de Rick and Morty!
 
